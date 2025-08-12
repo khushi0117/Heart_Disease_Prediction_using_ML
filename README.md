@@ -47,10 +47,6 @@ By applying and comparing multiple classification algorithms, we identify the mo
 
 ---
 
-## Conclusion: Logistic Regression delivered the highest accuracy and was selected as the final model.
+## Conclusion: 
+Logistic Regression delivered the highest accuracy and was selected as the final model.
 Other models performed slightly lower but still demonstrated promising predictive capabilities.
-
-
-
-## 📂 Repository Structure
-
